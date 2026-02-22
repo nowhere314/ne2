@@ -22,6 +22,7 @@
 </description>
 <body>
 <section>
+<section>
 <empty-line/><empty-line/><empty-line/>
 <p><image l:href="#img_1"/></p>
 <empty-line/><empty-line/><empty-line/><empty-line/><empty-line/><empty-line/><empty-line/><empty-line/><empty-line/><empty-line/><empty-line/>
@@ -900,11 +901,9 @@
 <empty-line/><empty-line/><empty-line/><empty-line/>
 <p><image l:href="#img_5"/></p>
 <empty-line/><empty-line/><empty-line/>
-<p>PREFACE</p>
-<p>ПРЕДИСЛОВИЕ</p>
-<p><image l:href="#img_4"/></p>
-<empty-line/><empty-line/><empty-line/>
-<p><emphasis>“E</emphasis><emphasis>veryone should be enlightened!</emphasis><emphasis>”</emphasis> is the clarion call of our Beloved and Great <emphasis>Sadguru</emphasis>, Sri Ramakant Maharaj.</p>
+</section>
+<section><title><p>PREFACE</p><p>ПРЕДИСЛОВИЕ</p></title>
+<p><emphasis>“Everyone should be enlightened!”</emphasis> is the clarion call of our Beloved and Great <emphasis>Sadguru</emphasis>, Sri Ramakant Maharaj.</p>
 <p>«Все должны быть просветлены!» — таков призыв нашего Возлюбленного и Великого Садгуру, Шри Рамаканта Махараджа.</p>
 <p><emphasis>Ultimate Truth</emphasis> will transform the reader. It is not just another book of spiritual knowledge. Using words as a medium, the Master places the reader’s Identity before him. Maharaj’s boundless compassion, and relentless drive, to bring the suffering of all beings to an end, radiate from each page.</p>
 <p>«Высшая Истина» преобразит читателя. Это не просто очередная книга духовных знаний. Используя слова как средство, Учитель открывает читателю Его Истинную Сущность. Безграничное сострадание Махараджа и его неустанное стремление положить конец страданиям всех существ излучаются с каждой страницы.</p>
@@ -929,8 +928,8 @@
 <empty-line/>
 <p><image l:href="#img_4"/></p>
 <empty-line/><empty-line/><empty-line/>
-<p>ACKNOWLEDGEMENTS</p>
-<p>Благодарности</p>
+</section>
+<section><title><p>ACKNOWLEDGEMENTS</p><p>Благодарности</p></title>
 <p><image l:href="#img_4"/></p>
 <empty-line/><empty-line/><empty-line/>
 <p>We wish to express our gratitude to Sadguru Sri Ramakant Maharaj, and to Ranjit Ashram. Special thanks are due to the following:</p>
@@ -952,8 +951,8 @@
 <empty-line/>
 <p><image l:href="#img_4"/></p>
 <empty-line/><empty-line/><empty-line/>
-<p>INTRODUCTION</p>
-<p>ВВЕДЕНИЕ</p>
+</section>
+<section><title><p>INTRODUCTION</p><p>ВВЕДЕНИЕ</p></title>
 <p><image l:href="#img_4"/></p>
 <empty-line/><empty-line/><empty-line/>
 <p><emphasis>U</emphasis><emphasis>ltimate Truth</emphasis> consists of 3 parts: Talks from Ranjit Ashram in Nashik, India, between March and November 2017, and Talks from the Master’s U.S.A. visit in 2016. (Bold text is used to hammer home the teachings.) The final section, “How the Master Changed my Life” contains personal sharings, from seekers, whose lives have been transformed forever, by Maharaj’s teachings.</p>
@@ -971,6 +970,7 @@
 <empty-line/>
 <p><image l:href="#img_4"/></p>
 <empty-line/><empty-line/><empty-line/><empty-line/><empty-line/><empty-line/><empty-line/><empty-line/><empty-line/><empty-line/><empty-line/><empty-line/><empty-line/>
+</section>
 <p>PART ONE</p>
 <p>ЧАСТЬ ПЕРВАЯ</p>
 <p>Talks from Nashik</p>
