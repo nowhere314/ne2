@@ -2,14 +2,13 @@
 <FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
 <description>
     <title-info>
-        <genre>antique</genre>
+        <genre>religion_self</genre>
         <author><first-name>Sri</first-name><middle-name>Ramakant</middle-name><last-name>Maharaj</last-name></author>
         <book-title>Ultimate Truth</book-title>
         <lang>en</lang>
     </title-info>
     <document-info>
         <author><first-name>Sri</first-name><middle-name>Ramakant</middle-name><last-name>Maharaj</last-name></author>
-        <program-used>calibre 9.3.0</program-used>
         <date>04.03.2026</date>
         <id>rmut202603040956</id>
         <version>rmut202603040956</version>
@@ -19,8 +18,8 @@
         <year>2018</year>
     </publish-info>
 </description>
-<body>
-<section><title><p><emphasis>Ultimate Truth</emphasis></p></title>
+<body><title>Ultimate Truth</title>
+<section><title><p><emphasis>Publishing information</emphasis></p></title>
 <p>Copyright © 2018 Anvita Ramakant Sawant</p>
 <p>First Edition: September 2018</p>
 <p>Published by</p>
@@ -40,6 +39,7 @@
 <p>All rights reserved. No part of this book may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or by any information storage and retrieval system without written permission from the Copyright Holder or her representative, Amit Ramakant Sawant, except for the inclusion of brief quotations in a review.</p>
 </section>
 <section><title><p>CONTENTS</p></title>
+<!-- check with headers and remove-->
 <p><emphasis>Preface</emphasis></p>
 <p><emphasis>Acknowledgements</emphasis></p>
 <p><emphasis>Introduction</emphasis></p>
@@ -2896,8 +2896,45 @@
 <p>***</p>
 <p>Words cannot express the transformation that has taken place, since discovering Sri Ramakant Maharaj. There is no longer a sense of time. The days and nights, weeks and years, just flow spontaneously. Everything flows, and unfolds, with a heart that is bursting with joy, and peace, that surpasses all understanding. There are no thoughts, only a vast emptiness that is filled with pure happiness, ecstasy and laughter. I did not know that it was possible, to be empty and full at the same time. I used to think I knew so much. Then, I discovered that I did not know anything at all. Knowing that there is nothing to know, is the greatest liberation! I bow to my great, and humble Master, with immense respect and gratitude!</p>
 </section>
-<section>
-<p>GLOSSARY</p><!-- TODO add glossary from image -->
+<section><title><p>GLOSSARY</p>
+<p><emphasis>Aham Brahmaasmi</emphasis> Mantra meaning "I am <emphasis>Brahman</emphasis>", "I am Ultimate Reality".</p>
+<p><emphasis>Amrut</emphasis> Nectar.</p>
+<p><emphasis>Atman</emphasis> The Supreme Self.</p>
+<p><emphasis>Atma Nivedanam Bhakti</emphasis> Highest Devotion, Self-Surrender.</p>
+<p><emphasis>Bhajans</emphasis> Devotional songs, Worship.</p>
+<p><emphasis>Bhakti</emphasis> Devotion.</p>
+<p><emphasis>Brahman</emphasis> The Absolute, Ultimate Reality.</p>
+<p><emphasis>Darshan</emphasis> Vision(s) of the Divine.</p>
+<p><emphasis>Dattatreya</emphasis> Adi-Guru (First-Guru) of the Navnath Sampradaya, considered as the incarnation of The Divine trinity of <emphasis>Brahma, Visnu, and Shiva</emphasis>.</p>
+<p><emphasis>Dharma</emphasis> Cosmic order, Divine Law.</p>
+<p><emphasis>Diksha</emphasis> Initiation.</p>
+<p><emphasis>Gunas</emphasis> Attributes, qualities. The three <emphasis>gunas: Rajas, Sattva, Tamas</emphasis>.</p>
+<p><emphasis>Hatha Yoga</emphasis> A system of yoga for gaining control over the physical body and life-force.</p>
+<p><emphasis>Karma</emphasis> Action, cause and effect.</p>
+<p><emphasis>Jnani</emphasis> Knower.</p>
+<p><emphasis>Krupa</emphasis> Blessing, grace.</p>
+<p><emphasis>Mahasamadhi</emphasis> The Great Merging, the final <emphasis>samadhi</emphasis>. The Ultimate goal of the spiritual seeker.</p>
+<p><emphasis>Maya</emphasis> Illusion.</p>
+<p><emphasis>Mukti</emphasis> Liberation, freedom.</p>
+<p><emphasis>Mula-Maya</emphasis> The primary illusion. Origin, root, base illusion.</p>
+<p><emphasis>Naam Mantra</emphasis> Mantra used by the Navnath Sampradaya Lineage, meaning "I am <emphasis>Brahman, Brahman</emphasis> I am".</p>
+<p><emphasis>Neti-neti</emphasis> "Not this, not this" method of enquiry.</p>
+<p><emphasis>Para, Pashyanti, Madhyama and Vaikhari</emphasis> The four levels of speech.</p>
+<p><emphasis>Prasad</emphasis> Food used as a religuous offering.</p>
+<p><emphasis>Rajas</emphasis> Excitable, activity, restlessness, egoism. One of the three gunas.</p>
+<p><emphasis>Samadhi</emphasis> Oneness with Self. Rapturous absorption.</p>
+<p><emphasis>Sadhana</emphasis> Spiritual practice.</p>
+<p><emphasis>Sadguru</emphasis> Highest and transcendent spiritual Guru, True Guru.</p>
+<p><emphasis>Sannyasin</emphasis> Renunciate.</p>
+<p><emphasis>Satsang</emphasis> Association with the wise, meeting in Truth.</p>
+<p><emphasis>Sattva</emphasis> Illuminating, pure. One of three gunas.</p>
+<p><emphasis>Shivoham</emphasis> Mantra meaning "I am Shiva", "I am Ultimate Reality".</p>
+<p><emphasis>Shakti</emphasis> Spiritual power, spiritual energy.</p>
+<p><emphasis>Shama, Dama, Titiksha, Uparati, Bhakti, Shradda</emphasis> Six sign of realization.</p>
+<p><emphasis>Soham</emphasis> Mantra meaning "I am That", "I am Ultimate Reality".</p>
+<p><emphasis>Swarup</emphasis> Reality, One's own form, nature.</p>
+<p><emphasis>Tamas</emphasis> Restraining - darkness, inertia, passivity.</p>
+<p><emphasis>Vipassana</emphasis> A method of meditation used in some forms of Buddhism, involving concentration on the body and it's sensations.</p>
 </section>
 <section>
 <p><emphasis>Our Beloved Sadguru Sri Ramakant Maharaj Mahasamadhi, 31 August 2018, 11.23am, Mumbai.</emphasis></p>
